@@ -1,0 +1,1000 @@
+Enchanted Thread, 1 gold, 3 silver, 1 copper
+Sapphire Chip, 1 silver, 6 copper
+Sunstone, 2 gold, 1 silver, 8 copper
+Obsidian Idol, 1 silver, 2 copper
+Sunstone, 5 silver, 2 copper
+Sword of Dawn, 6 silver, 5 copper
+Goblin Ear, 9 silver, 8 copper
+Ring of Embers, 1 gold, 8 silver, 9 copper
+Arrow Bundle, 4 gold, 3 silver, 3 copper
+Blacksmith Hammer, 8 silver, 1 copper
+Amulet of Mists, 1 gold, 8 silver, 1 copper
+Goblin Ear, 9 silver, 3 copper
+Watcher’s Eye, 1 gold, 5 silver, 2 copper
+Emerald Leaf, 9 silver, 1 copper
+Boots of Swiftness, 8 silver, 4 copper
+Ring of Embers, 2 gold, 8 silver, 6 copper
+Elixir of Vigor, 1 silver, 5 copper
+Gilded Chalice, 9 copper
+Scroll of Minor Fire, 1 silver
+Potion, 4 silver, 3 copper
+Herb Bundle, 2 gold, 6 silver
+Boots of Swiftness, 5 silver, 4 copper
+Lockpick Set, 2 gold, 5 silver, 2 copper
+Wolf Pelt, 2 silver, 8 copper
+Crystal Vial, 8 silver, 5 copper
+Quiver, 1 silver, 9 copper
+Lucky Dice, 9 silver, 2 copper
+Obsidian Idol, 3 copper
+Potion, 5 copper
+Ring of Embers, 7 silver, 3 copper
+Ancient Coin, 2 gold, 2 silver, 2 copper
+Arcane Dust, 4 gold, 5 silver, 2 copper
+Quiver, 3 gold, 4 silver, 5 copper
+Gilded Chalice, 1 gold, 5 silver, 2 copper
+Iron Ingot, 2 gold, 7 silver, 2 copper
+Ancient Coin, 2 gold, 4 silver, 1 copper
+Enchanted Thread, 1 gold, 4 silver, 3 copper
+Enchanted Thread, 1 gold, 3 silver, 9 copper
+Lockpick Set, 1 gold, 5 silver, 4 copper
+Boots of Swiftness, 1 gold, 9 silver, 4 copper
+Sword of Dawn, 8 silver, 3 copper
+Obsidian Idol, 2 gold, 2 silver, 2 copper
+Leather Scrap, 5 gold, 1 silver, 3 copper
+Helm of the Fox, 5 silver, 3 copper
+Wolf Pelt, 2 gold, 7 silver, 5 copper
+Elixir of Vigor, 1 silver, 4 copper
+Torch, 4 silver, 8 copper
+Scroll of Minor Fire, 2 gold, 8 silver, 6 copper
+Sword of Dawn, 3 gold, 2 silver, 7 copper
+Dragon Tooth, 4 silver, 2 copper
+Sword of Dawn, 1 gold, 4 silver, 6 copper
+Leather Scrap, 6 copper
+Goblin Ear, 4 silver, 4 copper
+Ancient Coin, 1 silver, 4 copper
+Ruby Shard, 3 gold, 6 silver, 7 copper
+Sword of Dawn, 4 silver, 4 copper
+Sunstone, 8 silver, 3 copper
+Watcher’s Eye, 5 silver, 9 copper
+Torch, 2 gold, 5 silver, 1 copper
+Boots of Swiftness, 3 silver, 3 copper
+Ornate Key, 1 gold, 5 silver, 7 copper
+Blacksmith Hammer, 5 silver, 8 copper
+Dagger, 9 silver, 4 copper
+Phoenix Ash, 7 silver
+Dagger, 1 copper
+Phoenix Ash, 2 gold, 7 silver, 6 copper
+Wolf Pelt, 2 gold, 3 copper
+Arcane Dust, 3 silver
+Crystal Vial, 2 silver, 5 copper
+Arcane Dust, 7 silver, 7 copper
+Phoenix Ash, 2 silver, 5 copper
+Wolf Pelt, 2 gold, 7 silver, 3 copper
+Sealed Letter, 1 silver, 2 copper
+Helm of the Fox, 1 gold, 8 silver, 5 copper
+Goblin Ear, 1 gold, 8 silver, 1 copper
+Amulet of Mists, 4 silver, 4 copper
+Golden Brooch, 4 gold, 1 silver, 5 copper
+Topaz Fragment, 1 gold, 9 silver, 2 copper
+Sword of Dawn, 2 gold, 4 silver, 6 copper
+Arrow Bundle, 9 silver
+Traveler’s Journal, 9 silver, 2 copper
+Health Tonic, 4 gold, 9 silver, 1 copper
+Dragon Tooth, 1 gold, 2 silver, 1 copper
+Arcane Dust, 4 gold, 3 silver, 8 copper
+Watcher’s Eye, 1 gold, 6 silver, 1 copper
+Amulet of Mists, 5 copper
+Potion, 4 gold, 4 silver
+Tinker's Gear, 2 gold, 6 silver, 3 copper
+Rope Coil, 3 silver, 6 copper
+Ring of Embers, 2 gold, 2 silver, 2 copper
+Phoenix Ash, 1 gold, 8 silver, 4 copper
+Sword of Dawn, 1 gold, 7 silver, 7 copper
+Traveler’s Journal, 2 gold, 2 silver, 5 copper
+Sealed Letter, 1 gold, 9 silver, 8 copper
+Scroll of Minor Fire, 1 gold, 6 silver, 4 copper
+Quiver, 9 silver, 8 copper
+Quiver, 8 silver, 6 copper
+Herb Bundle, 1 gold, 6 silver, 2 copper
+Scroll of Minor Fire, 2 gold, 4 silver
+Traveler's Map, 3 gold, 9 silver, 1 copper
+Crystal Vial, 2 gold, 1 silver, 3 copper
+Lockpick Set, 8 silver, 7 copper
+Helm of the Fox, 2 gold, 1 silver, 7 copper
+Arcane Dust, 4 silver
+Sunstone, 5 silver, 5 copper
+Torch, 3 gold, 2 silver, 9 copper
+Mana Tonic, 6 silver, 4 copper
+Sealed Letter, 2 silver, 7 copper
+Runed Tablet, 1 gold, 1 silver, 8 copper
+Sealed Letter, 3 gold, 8 silver, 5 copper
+Antidote, 3 gold, 4 copper
+Arrow Bundle, 3 gold, 8 copper
+Dragon Tooth, 1 silver, 9 copper
+Herb Bundle, 8 silver, 3 copper
+Spider Silk, 2 gold, 4 silver, 8 copper
+Emerald Leaf, 6 silver, 5 copper
+Antidote, 7 silver, 9 copper
+Amulet of Mists, 8 copper
+Helm of the Fox, 3 silver, 5 copper
+Wolf Pelt, 1 silver, 5 copper
+Amulet of Mists, 9 copper
+Sapphire Chip, 3 gold, 4 silver, 9 copper
+Watcher’s Eye, 1 gold, 3 silver, 3 copper
+Shield of Oak, 3 gold, 3 silver, 6 copper
+Elixir of Vigor, 3 gold, 6 silver, 6 copper
+Sapphire Chip, 1 silver, 6 copper
+Goblin Ear, 8 silver, 5 copper
+Scroll of Minor Fire, 9 silver, 4 copper
+Traveler’s Journal, 1 gold, 9 silver, 6 copper
+Torch, 1 copper
+Health Tonic, 2 gold, 8 silver, 7 copper
+Amulet of Mists, 1 gold, 3 silver, 3 copper
+Quiver, 3 gold, 4 silver, 8 copper
+Herb Bundle, 7 silver, 1 copper
+Obsidian Idol, 1 gold, 1 silver, 5 copper
+Dragon Tooth, 1 gold, 6 silver, 6 copper
+Shield of Oak, 5 silver, 2 copper
+Traveler’s Journal, 2 gold, 2 silver, 3 copper
+Ornate Key, 9 copper
+Ruby Shard, 5 silver, 1 copper
+Leather Scrap, 2 silver, 3 copper
+Arcane Dust, 3 silver, 5 copper
+Mana Tonic, 1 gold, 4 silver, 8 copper
+Sunstone, 2 silver, 8 copper
+Ancient Coin, 2 gold, 8 silver, 2 copper
+Rope Coil, 5 silver, 9 copper
+Ancient Coin, 3 gold, 1 silver, 2 copper
+Blacksmith Hammer, 6 silver, 7 copper
+Antidote, 4 silver, 4 copper
+Herb Bundle, 2 silver, 8 copper
+Leather Scrap, 4 silver, 3 copper
+Silver Locket, 8 silver, 1 copper
+Arcane Dust, 3 gold, 3 silver, 9 copper
+Wolf Pelt, 1 gold, 6 silver, 4 copper
+Dagger, 2 gold, 4 silver, 5 copper
+Leather Scrap, 8 silver, 2 copper
+Helm of the Fox, 2 gold, 1 silver, 7 copper
+Crystal Vial, 3 silver, 4 copper
+Sapphire Chip, 2 gold, 2 silver, 2 copper
+Traveler’s Journal, 1 gold, 4 silver, 9 copper
+Golden Brooch, 6 silver, 2 copper
+Silver Locket, 5 copper
+Watcher’s Eye, 2 gold, 9 silver, 4 copper
+Lockpick Set, 4 silver, 6 copper
+Arrow Bundle, 9 silver, 5 copper
+Leather Scrap, 1 gold, 7 silver, 8 copper
+Phoenix Ash, 9 silver
+Arcane Dust, 6 silver
+Ancient Coin, 2 silver, 7 copper
+Topaz Fragment, 3 silver, 7 copper
+Shield of Oak, 9 silver, 8 copper
+Iron Ingot, 2 gold, 3 silver, 1 copper
+Tinker's Gear, 1 silver, 7 copper
+Rope Coil, 1 silver, 3 copper
+Phoenix Ash, 4 gold, 1 silver, 3 copper
+Emerald Leaf, 1 gold, 3 silver
+Antidote, 1 gold, 9 silver, 9 copper
+Rope Coil, 1 gold, 1 silver, 4 copper
+Quiver, 2 gold, 9 silver, 3 copper
+Obsidian Idol, 2 silver, 6 copper
+Watcher’s Eye, 1 silver, 5 copper
+Arcane Dust, 2 gold, 2 silver, 8 copper
+Sapphire Chip, 1 gold, 6 silver, 1 copper
+Golden Brooch, 6 silver, 7 copper
+Lockpick Set, 1 gold, 5 silver, 4 copper
+Rope Coil, 8 silver, 8 copper
+Sealed Letter, 7 silver, 3 copper
+Torch, 2 silver, 9 copper
+Traveler's Map, 1 gold, 7 silver, 7 copper
+Leather Scrap, 3 gold, 7 silver, 5 copper
+Enchanted Thread, 2 gold, 2 silver, 5 copper
+Topaz Fragment, 1 gold, 6 silver, 5 copper
+Topaz Fragment, 5 silver, 3 copper
+Topaz Fragment, 1 gold, 3 silver, 1 copper
+Herb Bundle, 9 silver, 3 copper
+Herb Bundle, 3 gold, 9 silver, 4 copper
+Obsidian Idol, 2 gold, 7 copper
+Lucky Dice, 6 silver, 5 copper
+Sunstone, 3 gold, 8 silver, 2 copper
+Golden Brooch, 3 gold, 5 silver, 9 copper
+Ring of Embers, 3 silver, 2 copper
+Tinker's Gear, 7 silver, 9 copper
+Lockpick Set, 3 gold, 4 silver, 4 copper
+Amulet of Mists, 5 silver, 7 copper
+Arcane Dust, 4 silver
+Blacksmith Hammer, 1 gold, 9 silver, 6 copper
+Arrow Bundle, 2 gold, 3 silver, 2 copper
+Mystic Feather, 2 gold, 2 silver, 8 copper
+Quiver, 1 gold, 8 silver, 7 copper
+Amulet of Mists, 7 silver, 2 copper
+Leather Scrap, 3 gold, 5 silver
+Phoenix Ash, 7 silver, 3 copper
+Torch, 4 silver, 8 copper
+Runed Tablet, 2 silver, 4 copper
+Goblin Ear, 1 silver
+Sealed Letter, 3 gold, 9 silver, 5 copper
+Mana Tonic, 3 gold, 6 silver, 6 copper
+Lucky Dice, 4 gold, 2 silver, 1 copper
+Blacksmith Hammer, 1 gold, 5 silver, 3 copper
+Gilded Chalice, 4 gold, 6 silver, 3 copper
+Iron Ingot, 8 silver, 5 copper
+Elixir of Vigor, 1 gold, 5 silver, 1 copper
+Traveler's Map, 3 gold, 9 silver, 2 copper
+Emerald Leaf, 8 silver, 6 copper
+Mystic Feather, 3 gold, 5 silver, 8 copper
+Arcane Dust, 3 gold, 2 silver, 1 copper
+Silver Locket, 1 gold, 6 silver, 4 copper
+Lucky Dice, 2 gold, 4 silver, 5 copper
+Silver Locket, 4 gold, 7 silver, 7 copper
+Shield of Oak, 3 gold, 6 silver
+Mana Tonic, 6 silver
+Traveler’s Journal, 2 gold, 8 copper
+Shield of Oak, 5 silver, 2 copper
+Torch, 1 gold, 7 silver, 1 copper
+Ruby Shard, 1 copper
+Potion, 2 gold, 5 silver, 9 copper
+Emerald Leaf, 1 silver
+Ancient Coin, 1 gold, 2 silver, 6 copper
+Runed Tablet, 1 gold, 8 silver, 5 copper
+Mana Tonic, 7 silver, 9 copper
+Mystic Feather, 1 silver, 2 copper
+Golden Brooch, 1 gold, 1 silver, 3 copper
+Golden Brooch, 1 gold, 6 silver, 2 copper
+Quiver, 4 gold, 9 silver, 6 copper
+Traveler's Map, 1 gold, 6 silver, 8 copper
+Emerald Leaf, 9 silver, 7 copper
+Sword of Dawn, 2 gold, 2 silver, 8 copper
+Amulet of Mists, 8 silver, 9 copper
+Herb Bundle, 9 silver, 3 copper
+Silver Locket, 5 gold, 8 silver, 7 copper
+Watcher’s Eye, 6 silver, 2 copper
+Potion, 8 silver, 7 copper
+Elixir of Vigor, 4 copper
+Watcher’s Eye, 3 silver, 4 copper
+Boots of Swiftness, 4 gold, 4 silver, 8 copper
+Sword of Dawn, 4 gold, 1 silver, 7 copper
+Amulet of Mists, 3 silver, 9 copper
+Wolf Pelt, 3 gold, 8 silver, 8 copper
+Iron Ingot, 3 silver, 3 copper
+Scroll of Minor Fire, 2 gold, 9 silver, 1 copper
+Moonstone, 4 gold, 1 silver, 5 copper
+Mystic Feather, 1 gold, 5 silver, 6 copper
+Herb Bundle, 3 silver, 7 copper
+Iron Ingot, 3 gold, 7 silver
+Ruby Shard, 1 silver
+Antidote, 9 silver, 6 copper
+Sunstone, 3 gold, 4 silver, 8 copper
+Gilded Chalice, 7 silver, 2 copper
+Antidote, 1 gold, 6 silver, 2 copper
+Topaz Fragment, 5 silver, 7 copper
+Shield of Oak, 5 silver, 4 copper
+Sword of Dawn, 2 silver, 1 copper
+Scroll of Minor Fire, 2 silver, 7 copper
+Torch, 1 gold, 6 silver, 7 copper
+Herb Bundle, 6 copper
+Spider Silk, 6 silver, 3 copper
+Moonstone, 2 gold, 2 silver, 8 copper
+Silver Locket, 1 gold, 1 silver, 4 copper
+Enchanted Thread, 1 copper
+Iron Ingot, 6 silver, 2 copper
+Herb Bundle, 5 gold, 4 silver
+Obsidian Idol, 8 silver, 1 copper
+Emerald Leaf, 2 gold, 3 silver, 1 copper
+Crystal Vial, 3 gold, 3 silver, 9 copper
+Watcher’s Eye, 2 silver, 5 copper
+Phoenix Ash, 7 silver
+Watcher’s Eye, 1 gold, 7 silver
+Sealed Letter, 1 gold, 8 silver, 5 copper
+Sunstone, 3 gold, 6 silver, 6 copper
+Topaz Fragment, 1 gold, 8 silver, 8 copper
+Sunstone, 3 gold, 2 silver, 6 copper
+Wolf Pelt, 1 gold, 2 copper
+Enchanted Thread, 4 gold, 5 silver, 2 copper
+Elixir of Vigor, 9 copper
+Gilded Chalice, 8 silver, 2 copper
+Goblin Ear, 6 silver, 9 copper
+Ornate Key, 4 silver, 3 copper
+Elixir of Vigor, 9 silver, 8 copper
+Watcher’s Eye, 4 silver, 4 copper
+Ring of Embers, 2 gold, 8 silver, 1 copper
+Watcher’s Eye, 3 gold, 5 silver, 1 copper
+Lockpick Set, 2 gold, 6 silver, 5 copper
+Runed Tablet, 1 silver, 8 copper
+Arrow Bundle, 2 gold, 7 silver, 5 copper
+Gilded Chalice, 4 silver, 8 copper
+Arcane Dust, 6 silver
+Shield of Oak, 3 gold, 8 silver, 3 copper
+Elixir of Vigor, 7 silver, 2 copper
+Emerald Leaf, 9 silver, 2 copper
+Shield of Oak, 1 gold, 2 silver
+Dagger, 4 silver, 2 copper
+Sunstone, 8 silver, 7 copper
+Antidote, 3 silver, 1 copper
+Ornate Key, 2 gold, 2 silver, 6 copper
+Amulet of Mists, 3 copper
+Traveler’s Journal, 7 silver
+Wolf Pelt, 5 silver, 3 copper
+Moonstone, 6 silver, 6 copper
+Dragon Tooth, 1 silver, 7 copper
+Boots of Swiftness, 7 silver, 8 copper
+Torch, 8 copper
+Gilded Chalice, 8 silver, 9 copper
+Silver Locket, 2 gold, 5 silver
+Arrow Bundle, 1 gold, 7 silver
+Antidote, 1 gold, 9 silver, 4 copper
+Iron Ingot, 6 silver, 2 copper
+Arcane Dust, 7 silver, 8 copper
+Enchanted Thread, 2 gold, 7 silver, 9 copper
+Leather Scrap, 4 silver, 8 copper
+Tinker's Gear, 6 silver, 6 copper
+Silver Locket, 1 gold, 3 silver
+Mana Tonic, 2 gold, 8 silver, 1 copper
+Arcane Dust, 1 silver, 8 copper
+Ancient Coin, 2 copper
+Dagger, 4 silver, 8 copper
+Boots of Swiftness, 7 silver, 6 copper
+Silver Locket, 2 gold, 5 silver, 9 copper
+Health Tonic, 2 gold, 8 silver, 9 copper
+Quiver, 2 silver, 6 copper
+Mana Tonic, 1 silver
+Ruby Shard, 1 gold, 2 silver, 3 copper
+Elixir of Vigor, 6 silver, 3 copper
+Lucky Dice, 3 gold, 9 silver, 8 copper
+Watcher’s Eye, 5 silver, 9 copper
+Quiver, 3 silver, 7 copper
+Sapphire Chip, 1 gold, 6 silver, 1 copper
+Moonstone, 7 silver, 7 copper
+Blacksmith Hammer, 1 gold, 4 silver, 5 copper
+Sealed Letter, 2 gold, 7 silver, 5 copper
+Shield of Oak, 1 copper
+Ruby Shard, 6 silver, 9 copper
+Watcher’s Eye, 3 gold, 3 silver, 1 copper
+Lockpick Set, 6 silver, 3 copper
+Potion, 3 silver, 6 copper
+Helm of the Fox, 4 silver, 8 copper
+Phoenix Ash, 1 gold, 5 silver, 8 copper
+Boots of Swiftness, 5 silver, 7 copper
+Phoenix Ash, 1 gold, 4 silver, 2 copper
+Gilded Chalice, 2 gold, 7 copper
+Quiver, 3 silver, 1 copper
+Traveler's Map, 1 gold, 6 silver, 3 copper
+Ornate Key, 6 silver, 8 copper
+Amulet of Mists, 6 silver, 3 copper
+Tinker's Gear, 4 copper
+Wolf Pelt, 1 gold, 4 silver
+Silver Locket, 6 silver, 5 copper
+Antidote, 6 silver, 4 copper
+Sealed Letter, 2 gold, 4 silver, 3 copper
+Sealed Letter, 8 silver, 4 copper
+Golden Brooch, 2 silver, 7 copper
+Elixir of Vigor, 8 silver, 6 copper
+Amulet of Mists, 5 silver
+Sapphire Chip, 2 gold, 7 silver, 1 copper
+Amulet of Mists, 3 silver, 4 copper
+Sapphire Chip, 5 copper
+Antidote, 1 gold, 6 copper
+Ring of Embers, 2 gold, 3 silver, 2 copper
+Lucky Dice, 4 silver, 8 copper
+Spider Silk, 2 gold, 7 silver, 6 copper
+Blacksmith Hammer, 1 silver, 4 copper
+Topaz Fragment, 1 gold, 4 silver, 6 copper
+Helm of the Fox, 2 silver, 7 copper
+Sword of Dawn, 1 copper
+Helm of the Fox, 6 copper
+Obsidian Idol, 9 silver, 6 copper
+Sealed Letter, 1 gold, 1 silver, 8 copper
+Dragon Tooth, 6 silver, 5 copper
+Obsidian Idol, 2 gold, 4 silver, 7 copper
+Obsidian Idol, 6 silver, 4 copper
+Moonstone, 8 silver, 7 copper
+Silver Locket, 1 gold, 2 silver, 8 copper
+Sword of Dawn, 3 gold, 6 silver, 4 copper
+Lucky Dice, 3 gold, 1 silver, 4 copper
+Helm of the Fox, 2 silver, 4 copper
+Antidote, 1 gold, 1 silver, 6 copper
+Arrow Bundle, 5 gold, 9 silver, 2 copper
+Ornate Key, 3 silver, 3 copper
+Moonstone, 1 gold, 7 silver, 4 copper
+Traveler's Map, 1 gold, 8 silver, 7 copper
+Emerald Leaf, 2 gold, 9 silver
+Mana Tonic, 1 gold, 9 silver, 7 copper
+Shield of Oak, 1 gold, 6 silver
+Shield of Oak, 1 gold, 2 silver, 4 copper
+Silver Locket, 2 gold, 6 silver, 1 copper
+Shield of Oak, 5 silver, 2 copper
+Ruby Shard, 3 gold, 9 copper
+Ring of Embers, 4 silver, 6 copper
+Traveler’s Journal, 7 silver, 6 copper
+Sword of Dawn, 2 gold, 1 silver, 1 copper
+Moonstone, 5 gold, 3 silver, 3 copper
+Scroll of Minor Fire, 1 gold, 8 silver, 3 copper
+Potion, 5 silver
+Potion, 2 gold, 8 silver, 6 copper
+Leather Scrap, 2 gold, 5 silver, 1 copper
+Enchanted Thread, 2 gold, 1 silver, 4 copper
+Scroll of Minor Fire, 2 gold, 7 copper
+Rope Coil, 8 silver, 5 copper
+Emerald Leaf, 3 silver, 4 copper
+Arcane Dust, 1 silver, 8 copper
+Rope Coil, 9 silver, 5 copper
+Topaz Fragment, 3 silver, 1 copper
+Watcher’s Eye, 4 silver, 5 copper
+Golden Brooch, 4 gold, 3 silver, 2 copper
+Leather Scrap, 6 silver, 2 copper
+Runed Tablet, 5 silver, 9 copper
+Traveler's Map, 8 silver, 9 copper
+Obsidian Idol, 6 silver, 1 copper
+Dragon Tooth, 7 silver, 7 copper
+Moonstone, 1 gold, 8 silver
+Golden Brooch, 1 gold, 4 copper
+Topaz Fragment, 7 silver, 1 copper
+Golden Brooch, 1 gold, 7 silver, 7 copper
+Dragon Tooth, 2 silver, 4 copper
+Sunstone, 1 gold, 4 silver, 1 copper
+Goblin Ear, 9 copper
+Ring of Embers, 1 copper
+Silver Locket, 1 gold, 8 silver
+Obsidian Idol, 2 gold, 1 silver, 4 copper
+Lockpick Set, 1 gold, 8 silver, 5 copper
+Ornate Key, 5 silver
+Quiver, 8 silver, 3 copper
+Mystic Feather, 9 silver, 7 copper
+Spider Silk, 1 gold, 4 silver, 1 copper
+Boots of Swiftness, 9 silver, 4 copper
+Ruby Shard, 3 gold, 5 copper
+Ruby Shard, 1 gold, 5 silver, 6 copper
+Sealed Letter, 8 silver, 2 copper
+Wolf Pelt, 6 silver, 8 copper
+Shield of Oak, 5 copper
+Enchanted Thread, 2 silver, 7 copper
+Emerald Leaf, 1 silver
+Rope Coil, 9 silver, 2 copper
+Arcane Dust, 1 gold, 8 silver, 8 copper
+Goblin Ear, 1 silver, 9 copper
+Potion, 2 silver, 5 copper
+Obsidian Idol, 1 gold, 6 silver, 8 copper
+Phoenix Ash, 8 silver, 4 copper
+Arcane Dust, 2 silver, 8 copper
+Runed Tablet, 1 silver, 9 copper
+Sealed Letter, 6 silver, 5 copper
+Dagger, 2 gold, 8 silver
+Boots of Swiftness, 2 gold, 7 silver, 7 copper
+Moonstone, 2 gold, 8 silver, 7 copper
+Ancient Coin, 3 silver, 3 copper
+Scroll of Minor Fire, 1 gold, 9 copper
+Goblin Ear, 5 gold, 5 silver, 8 copper
+Torch, 5 silver, 9 copper
+Silver Locket, 7 silver, 7 copper
+Topaz Fragment, 1 silver
+Elixir of Vigor, 4 silver, 9 copper
+Helm of the Fox, 4 gold, 5 silver, 7 copper
+Wolf Pelt, 3 silver, 9 copper
+Mana Tonic, 1 gold, 2 silver
+Sword of Dawn, 7 silver, 4 copper
+Helm of the Fox, 2 gold, 7 silver, 4 copper
+Mana Tonic, 6 silver
+Iron Ingot, 1 silver
+Scroll of Minor Fire, 3 gold, 1 silver, 4 copper
+Scroll of Minor Fire, 8 silver, 6 copper
+Wolf Pelt, 7 silver, 6 copper
+Crystal Vial, 2 silver, 4 copper
+Shield of Oak, 9 silver, 4 copper
+Obsidian Idol, 4 silver, 4 copper
+Ancient Coin, 3 silver, 1 copper
+Dagger, 3 gold, 5 silver, 3 copper
+Helm of the Fox, 3 gold, 1 silver, 9 copper
+Arrow Bundle, 9 silver
+Traveler’s Journal, 7 silver, 2 copper
+Lucky Dice, 1 silver
+Arcane Dust, 1 gold, 4 silver, 4 copper
+Runed Tablet, 3 copper
+Golden Brooch, 7 silver, 9 copper
+Emerald Leaf, 9 silver, 5 copper
+Boots of Swiftness, 7 copper
+Elixir of Vigor, 2 silver, 4 copper
+Herb Bundle, 4 gold, 3 copper
+Elixir of Vigor, 1 gold, 6 silver, 6 copper
+Ornate Key, 9 silver, 9 copper
+Torch, 1 gold, 3 silver
+Tinker's Gear, 4 silver
+Antidote, 4 silver
+Crystal Vial, 2 silver, 5 copper
+Crystal Vial, 5 gold, 2 silver, 5 copper
+Scroll of Minor Fire, 5 gold, 3 silver, 3 copper
+Crystal Vial, 6 silver, 7 copper
+Antidote, 5 silver, 1 copper
+Enchanted Thread, 8 silver, 6 copper
+Runed Tablet, 7 silver, 5 copper
+Silver Locket, 9 silver, 9 copper
+Silver Locket, 9 silver, 6 copper
+Lockpick Set, 5 silver, 5 copper
+Lucky Dice, 4 gold, 2 copper
+Ruby Shard, 5 silver, 1 copper
+Wolf Pelt, 7 silver, 3 copper
+Ring of Embers, 1 silver, 6 copper
+Ancient Coin, 2 silver, 9 copper
+Elixir of Vigor, 1 gold, 6 silver
+Gilded Chalice, 2 silver, 7 copper
+Shield of Oak, 1 silver, 5 copper
+Rope Coil, 1 gold, 9 silver, 2 copper
+Ornate Key, 3 silver, 5 copper
+Rope Coil, 1 gold, 8 silver, 3 copper
+Dagger, 5 silver, 9 copper
+Runed Tablet, 1 gold, 1 silver, 3 copper
+Scroll of Minor Fire, 8 silver, 3 copper
+Dragon Tooth, 2 gold, 9 silver, 1 copper
+Phoenix Ash, 6 silver, 3 copper
+Antidote, 4 gold, 1 silver, 6 copper
+Boots of Swiftness, 6 silver, 8 copper
+Iron Ingot, 8 silver, 4 copper
+Enchanted Thread, 6 copper
+Moonstone, 5 gold, 6 silver, 4 copper
+Scroll of Minor Fire, 2 gold, 4 silver, 9 copper
+Traveler’s Journal, 4 gold, 6 silver, 1 copper
+Ring of Embers, 3 silver, 6 copper
+Phoenix Ash, 2 gold, 4 silver, 5 copper
+Ancient Coin, 1 silver, 1 copper
+Runed Tablet, 9 silver, 5 copper
+Amulet of Mists, 1 gold, 5 silver
+Arcane Dust, 2 gold, 8 silver, 2 copper
+Amulet of Mists, 1 gold, 2 silver
+Dragon Tooth, 2 gold, 5 silver, 3 copper
+Obsidian Idol, 3 gold, 9 silver
+Crystal Vial, 1 gold, 5 silver, 1 copper
+Elixir of Vigor, 3 silver, 4 copper
+Ornate Key, 2 gold, 4 silver
+Traveler’s Journal, 4 silver, 2 copper
+Helm of the Fox, 1 gold, 6 silver
+Dragon Tooth, 5 silver, 6 copper
+Ring of Embers, 1 gold, 7 silver, 7 copper
+Mystic Feather, 9 silver, 3 copper
+Silver Locket, 7 silver, 4 copper
+Phoenix Ash, 1 gold, 1 silver, 7 copper
+Dagger, 2 gold, 7 silver, 9 copper
+Wolf Pelt, 9 silver, 8 copper
+Boots of Swiftness, 7 silver, 4 copper
+Amulet of Mists, 3 gold, 9 silver, 7 copper
+Herb Bundle, 4 gold, 9 silver, 4 copper
+Sealed Letter, 7 silver, 2 copper
+Sword of Dawn, 7 silver, 2 copper
+Health Tonic, 3 gold, 6 silver
+Gilded Chalice, 3 gold, 5 copper
+Silver Locket, 7 copper
+Crystal Vial, 1 gold, 1 silver, 7 copper
+Dragon Tooth, 2 gold, 8 silver
+Lockpick Set, 7 silver, 4 copper
+Scroll of Minor Fire, 2 gold, 3 silver, 3 copper
+Boots of Swiftness, 3 gold, 4 silver, 3 copper
+Elixir of Vigor, 1 gold, 7 silver, 9 copper
+Runed Tablet, 1 gold, 7 silver, 9 copper
+Enchanted Thread, 4 gold, 9 silver, 5 copper
+Arrow Bundle, 2 gold, 4 silver, 7 copper
+Potion, 6 silver, 3 copper
+Traveler’s Journal, 1 gold, 8 silver, 6 copper
+Rope Coil, 7 silver, 1 copper
+Tinker's Gear, 2 gold, 5 silver, 3 copper
+Traveler's Map, 5 gold, 9 silver, 2 copper
+Ornate Key, 4 silver, 1 copper
+Torch, 1 gold, 6 silver, 3 copper
+Ruby Shard, 1 gold, 9 silver, 5 copper
+Crystal Vial, 4 silver
+Iron Ingot, 6 silver, 2 copper
+Watcher’s Eye, 3 gold, 2 silver
+Runed Tablet, 7 silver, 8 copper
+Spider Silk, 2 gold, 7 silver, 2 copper
+Goblin Ear, 6 silver, 4 copper
+Traveler's Map, 1 gold, 4 silver, 5 copper
+Quiver, 9 silver, 9 copper
+Sapphire Chip, 1 silver, 4 copper
+Boots of Swiftness, 3 gold, 5 silver, 4 copper
+Arcane Dust, 6 silver, 1 copper
+Dragon Tooth, 4 silver, 5 copper
+Obsidian Idol, 1 gold, 3 silver, 6 copper
+Lucky Dice, 8 silver, 3 copper
+Traveler's Map, 2 gold, 2 copper
+Torch, 1 gold, 6 silver, 6 copper
+Crystal Vial, 6 silver, 5 copper
+Torch, 1 gold, 8 copper
+Dagger, 4 gold, 9 silver, 9 copper
+Traveler's Map, 1 silver, 7 copper
+Mystic Feather, 2 gold, 5 silver, 2 copper
+Ruby Shard, 5 gold, 6 silver, 2 copper
+Goblin Ear, 2 gold, 6 silver, 1 copper
+Elixir of Vigor, 1 gold, 5 silver, 4 copper
+Leather Scrap, 2 gold, 5 silver, 7 copper
+Lucky Dice, 8 copper
+Leather Scrap, 3 gold, 4 silver, 8 copper
+Lockpick Set, 2 gold, 8 silver, 3 copper
+Sealed Letter, 1 gold, 8 silver, 5 copper
+Traveler’s Journal, 8 silver, 6 copper
+Phoenix Ash, 1 gold, 4 silver, 1 copper
+Gilded Chalice, 7 silver, 4 copper
+Mana Tonic, 3 silver, 3 copper
+Topaz Fragment, 2 gold, 7 silver, 3 copper
+Lucky Dice, 2 gold, 7 silver, 2 copper
+Silver Locket, 8 silver, 5 copper
+Emerald Leaf, 6 silver, 5 copper
+Health Tonic, 2 gold, 7 silver, 3 copper
+Ruby Shard, 5 gold, 8 silver, 1 copper
+Sealed Letter, 5 silver, 9 copper
+Sword of Dawn, 7 silver, 5 copper
+Moonstone, 1 silver, 9 copper
+Tinker's Gear, 8 silver, 1 copper
+Spider Silk, 8 silver, 5 copper
+Arcane Dust, 4 gold, 1 silver, 8 copper
+Tinker's Gear, 8 silver, 5 copper
+Runed Tablet, 2 gold, 3 silver, 7 copper
+Traveler's Map, 4 silver
+Quiver, 2 gold, 2 silver, 8 copper
+Traveler’s Journal, 7 silver, 8 copper
+Arrow Bundle, 2 silver, 6 copper
+Dagger, 1 gold, 1 silver, 1 copper
+Boots of Swiftness, 4 silver, 3 copper
+Mana Tonic, 1 silver, 8 copper
+Sapphire Chip, 2 silver, 8 copper
+Dagger, 1 gold, 2 silver, 3 copper
+Quiver, 5 silver, 8 copper
+Amulet of Mists, 7 silver, 9 copper
+Runed Tablet, 5 silver, 4 copper
+Sapphire Chip, 1 gold, 9 silver, 4 copper
+Topaz Fragment, 2 gold, 3 silver, 7 copper
+Boots of Swiftness, 4 copper
+Traveler's Map, 2 gold, 2 silver, 9 copper
+Traveler’s Journal, 7 silver, 8 copper
+Herb Bundle, 1 gold, 3 silver, 2 copper
+Silver Locket, 1 gold, 2 silver, 1 copper
+Golden Brooch, 1 gold, 5 silver
+Amulet of Mists, 2 gold, 2 silver, 4 copper
+Phoenix Ash, 3 gold, 7 silver, 9 copper
+Moonstone, 7 silver, 9 copper
+Torch, 3 silver, 3 copper
+Arcane Dust, 2 gold, 8 silver
+Herb Bundle, 8 silver, 8 copper
+Watcher’s Eye, 2 silver, 2 copper
+Elixir of Vigor, 8 silver, 4 copper
+Ancient Coin, 1 silver, 3 copper
+Tinker's Gear, 2 gold, 1 silver, 8 copper
+Leather Scrap, 3 silver, 8 copper
+Blacksmith Hammer, 6 silver, 6 copper
+Rope Coil, 3 silver
+Obsidian Idol, 1 gold, 8 silver, 3 copper
+Spider Silk, 5 silver, 5 copper
+Obsidian Idol, 8 silver, 4 copper
+Ornate Key, 7 silver, 5 copper
+Emerald Leaf, 1 silver, 1 copper
+Rope Coil, 1 silver, 7 copper
+Quiver, 3 silver, 6 copper
+Traveler’s Journal, 5 silver, 7 copper
+Boots of Swiftness, 1 gold, 6 silver, 4 copper
+Topaz Fragment, 2 silver, 6 copper
+Elixir of Vigor, 4 gold, 6 silver, 5 copper
+Arcane Dust, 1 gold, 7 silver, 3 copper
+Goblin Ear, 1 gold, 3 silver, 5 copper
+Elixir of Vigor, 4 gold, 5 silver, 9 copper
+Obsidian Idol, 6 silver, 4 copper
+Watcher’s Eye, 1 gold, 5 silver, 9 copper
+Mana Tonic, 1 gold, 4 silver, 4 copper
+Sealed Letter, 1 gold, 6 silver, 2 copper
+Ring of Embers, 2 gold, 3 silver, 7 copper
+Lucky Dice, 3 gold, 5 silver, 4 copper
+Watcher’s Eye, 3 gold, 1 silver, 8 copper
+Obsidian Idol, 6 silver, 9 copper
+Gilded Chalice, 7 silver
+Tinker's Gear, 1 silver, 9 copper
+Sunstone, 2 gold, 6 silver, 4 copper
+Herb Bundle, 2 gold, 3 silver, 5 copper
+Elixir of Vigor, 1 gold, 3 silver, 2 copper
+Ancient Coin, 3 copper
+Scroll of Minor Fire, 1 gold, 9 copper
+Traveler’s Journal, 5 gold, 6 silver, 8 copper
+Wolf Pelt, 2 gold, 8 silver
+Gilded Chalice, 1 gold, 8 silver, 4 copper
+Dagger, 8 silver, 7 copper
+Golden Brooch, 1 gold, 9 silver, 3 copper
+Health Tonic, 1 silver, 3 copper
+Leather Scrap, 3 silver, 8 copper
+Herb Bundle, 2 silver
+Torch, 3 gold, 9 silver, 3 copper
+Traveler's Map, 9 silver, 6 copper
+Boots of Swiftness, 2 gold, 4 silver, 4 copper
+Runed Tablet, 1 silver, 6 copper
+Ornate Key, 9 silver, 3 copper
+Boots of Swiftness, 7 silver
+Iron Ingot, 6 silver, 9 copper
+Ruby Shard, 1 gold, 6 silver, 3 copper
+Spider Silk, 1 silver, 7 copper
+Runed Tablet, 1 gold, 6 silver, 1 copper
+Traveler's Map, 4 gold, 1 silver, 9 copper
+Goblin Ear, 1 gold, 4 silver, 9 copper
+Mana Tonic, 9 silver, 1 copper
+Wolf Pelt, 1 gold, 2 silver, 2 copper
+Ring of Embers, 2 silver, 1 copper
+Arcane Dust, 7 silver
+Traveler’s Journal, 5 copper
+Mana Tonic, 2 silver, 7 copper
+Arcane Dust, 1 silver, 9 copper
+Rope Coil, 4 gold, 5 silver, 7 copper
+Lockpick Set, 9 silver, 3 copper
+Spider Silk, 8 silver, 9 copper
+Scroll of Minor Fire, 8 silver, 3 copper
+Lucky Dice, 2 gold, 7 silver, 2 copper
+Runed Tablet, 1 gold, 3 copper
+Rope Coil, 9 silver, 7 copper
+Ornate Key, 2 silver, 4 copper
+Traveler's Map, 7 silver, 5 copper
+Spider Silk, 5 silver, 1 copper
+Obsidian Idol, 1 silver
+Traveler's Map, 8 silver
+Moonstone, 4 copper
+Silver Locket, 4 gold, 7 silver, 3 copper
+Silver Locket, 8 copper
+Phoenix Ash, 1 gold, 9 silver, 5 copper
+Obsidian Idol, 7 silver
+Lockpick Set, 3 gold, 4 silver, 7 copper
+Emerald Leaf, 7 silver, 7 copper
+Watcher’s Eye, 5 silver, 3 copper
+Mana Tonic, 7 silver, 9 copper
+Dagger, 6 silver, 6 copper
+Rope Coil, 8 silver, 3 copper
+Herb Bundle, 1 gold, 2 copper
+Ornate Key, 2 silver, 4 copper
+Arcane Dust, 2 gold, 3 silver, 9 copper
+Dagger, 6 silver, 9 copper
+Runed Tablet, 1 gold, 1 silver, 2 copper
+Silver Locket, 5 silver, 9 copper
+Spider Silk, 2 gold, 7 silver, 3 copper
+Runed Tablet, 2 gold, 1 silver, 4 copper
+Gilded Chalice, 1 gold, 2 silver, 3 copper
+Moonstone, 3 silver, 2 copper
+Herb Bundle, 1 gold, 4 silver, 3 copper
+Health Tonic, 7 silver, 3 copper
+Traveler’s Journal, 1 gold, 8 silver, 2 copper
+Health Tonic, 9 silver, 4 copper
+Topaz Fragment, 4 silver
+Lockpick Set, 5 silver, 2 copper
+Shield of Oak, 1 gold, 8 silver, 2 copper
+Silver Locket, 5 silver, 7 copper
+Topaz Fragment, 2 gold, 3 silver, 5 copper
+Dagger, 4 gold, 2 silver, 6 copper
+Lucky Dice, 3 silver, 8 copper
+Rope Coil, 2 gold, 1 silver, 2 copper
+Boots of Swiftness, 1 gold, 9 silver, 9 copper
+Goblin Ear, 7 silver, 9 copper
+Watcher’s Eye, 9 silver, 6 copper
+Dagger, 4 silver
+Topaz Fragment, 3 gold, 1 silver, 2 copper
+Silver Locket, 1 gold, 8 silver, 1 copper
+Amulet of Mists, 5 silver, 3 copper
+Antidote, 2 gold, 9 silver, 2 copper
+Traveler’s Journal, 6 silver, 1 copper
+Shield of Oak, 1 gold, 8 silver, 3 copper
+Quiver, 1 gold, 6 silver, 5 copper
+Goblin Ear, 2 gold, 6 silver, 7 copper
+Sunstone, 2 silver, 1 copper
+Ruby Shard, 3 gold, 8 silver, 2 copper
+Traveler's Map, 2 silver
+Leather Scrap, 1 gold, 2 copper
+Traveler's Map, 1 gold, 3 silver
+Mystic Feather, 1 gold, 6 silver, 9 copper
+Silver Locket, 8 silver, 5 copper
+Sapphire Chip, 3 copper
+Runed Tablet, 3 gold, 4 silver, 2 copper
+Ornate Key, 1 gold, 3 silver, 6 copper
+Topaz Fragment, 1 gold, 4 silver, 1 copper
+Lucky Dice, 2 gold, 6 silver, 9 copper
+Sapphire Chip, 1 gold, 7 silver, 9 copper
+Sword of Dawn, 1 gold, 3 silver, 5 copper
+Iron Ingot, 1 gold, 6 silver, 9 copper
+Potion, 8 silver, 9 copper
+Ornate Key, 1 silver, 3 copper
+Emerald Leaf, 1 gold, 8 silver, 5 copper
+Golden Brooch, 1 gold, 5 silver, 7 copper
+Enchanted Thread, 4 silver, 5 copper
+Traveler's Map, 2 gold, 6 silver, 5 copper
+Lucky Dice, 6 silver, 3 copper
+Rope Coil, 2 gold, 7 silver, 8 copper
+Dragon Tooth, 3 gold, 1 silver, 6 copper
+Sword of Dawn, 3 gold, 2 silver, 2 copper
+Goblin Ear, 1 copper
+Dragon Tooth, 1 silver, 9 copper
+Sapphire Chip, 1 gold, 2 silver, 3 copper
+Elixir of Vigor, 3 gold, 2 silver, 2 copper
+Blacksmith Hammer, 8 silver, 6 copper
+Spider Silk, 1 gold, 5 silver, 1 copper
+Golden Brooch, 2 gold, 8 silver, 9 copper
+Topaz Fragment, 3 gold, 5 silver, 2 copper
+Sword of Dawn, 7 silver, 6 copper
+Mana Tonic, 2 silver, 9 copper
+Lucky Dice, 6 silver, 3 copper
+Tinker's Gear, 1 silver
+Emerald Leaf, 4 gold, 5 silver, 7 copper
+Goblin Ear, 1 gold, 9 silver, 4 copper
+Boots of Swiftness, 4 silver
+Antidote, 2 gold, 6 silver
+Phoenix Ash, 4 silver, 1 copper
+Ruby Shard, 1 gold, 5 silver, 4 copper
+Rope Coil, 1 gold, 7 silver, 1 copper
+Boots of Swiftness, 6 silver, 6 copper
+Spider Silk, 5 silver
+Antidote, 1 gold, 9 copper
+Arcane Dust, 1 silver, 3 copper
+Silver Locket, 2 silver, 9 copper
+Mystic Feather, 3 gold, 6 silver, 6 copper
+Potion, 8 silver, 5 copper
+Dagger, 4 silver, 4 copper
+Amulet of Mists, 4 gold, 3 silver, 4 copper
+Herb Bundle, 1 gold, 6 copper
+Traveler’s Journal, 2 gold, 7 copper
+Lockpick Set, 1 gold, 7 silver
+Mana Tonic, 8 silver, 5 copper
+Leather Scrap, 7 silver, 4 copper
+Shield of Oak, 1 silver
+Blacksmith Hammer, 2 silver, 8 copper
+Emerald Leaf, 3 copper
+Ring of Embers, 2 silver, 3 copper
+Lockpick Set, 1 silver
+Sword of Dawn, 1 gold, 5 silver, 7 copper
+Torch, 5 silver, 4 copper
+Gilded Chalice, 2 gold, 6 copper
+Lucky Dice, 2 gold, 4 silver, 7 copper
+Quiver, 1 gold, 8 silver
+Leather Scrap, 6 silver, 2 copper
+Silver Locket, 1 gold, 9 silver, 9 copper
+Sword of Dawn, 3 silver, 6 copper
+Spider Silk, 1 gold, 1 silver, 1 copper
+Moonstone, 6 silver, 2 copper
+Crystal Vial, 2 gold, 2 copper
+Lucky Dice, 3 silver, 6 copper
+Lockpick Set, 6 silver, 9 copper
+Spider Silk, 9 silver
+Elixir of Vigor, 1 gold, 9 silver
+Lockpick Set, 5 copper
+Crystal Vial, 3 gold, 9 silver, 5 copper
+Quiver, 1 gold, 8 silver, 4 copper
+Scroll of Minor Fire, 6 silver, 7 copper
+Health Tonic, 3 silver, 8 copper
+Blacksmith Hammer, 2 gold, 1 silver, 3 copper
+Golden Brooch, 1 gold, 5 silver, 3 copper
+Watcher’s Eye, 3 silver, 7 copper
+Traveler's Map, 4 silver, 5 copper
+Potion, 5 silver, 2 copper
+Elixir of Vigor, 5 silver, 3 copper
+Blacksmith Hammer, 1 gold, 1 silver, 6 copper
+Potion, 6 silver, 3 copper
+Sealed Letter, 9 silver, 7 copper
+Torch, 2 gold, 7 silver, 9 copper
+Sapphire Chip, 3 copper
+Amulet of Mists, 3 gold, 2 silver, 2 copper
+Gilded Chalice, 1 gold, 1 silver
+Quiver, 3 silver, 8 copper
+Torch, 1 gold, 5 silver, 7 copper
+Potion, 1 gold, 5 silver, 8 copper
+Quiver, 1 gold, 9 silver, 4 copper
+Ruby Shard, 1 gold, 6 silver, 5 copper
+Sapphire Chip, 9 silver, 7 copper
+Moonstone, 7 silver, 2 copper
+Enchanted Thread, 9 silver, 4 copper
+Traveler’s Journal, 7 silver, 5 copper
+Quiver, 2 gold, 6 silver
+Potion, 1 gold, 1 silver, 5 copper
+Amulet of Mists, 9 silver
+Obsidian Idol, 1 gold, 3 silver, 7 copper
+Dragon Tooth, 2 gold, 6 copper
+Potion, 1 gold, 2 copper
+Health Tonic, 1 silver
+Crystal Vial, 4 gold, 8 silver, 3 copper
+Phoenix Ash, 2 gold, 4 silver, 7 copper
+Dagger, 5 silver, 3 copper
+Sealed Letter, 2 gold, 5 silver, 9 copper
+Mystic Feather, 5 gold, 3 silver, 9 copper
+Sealed Letter, 3 gold, 4 silver, 2 copper
+Iron Ingot, 8 silver, 9 copper
+Sunstone, 2 gold, 9 silver, 9 copper
+Ornate Key, 8 copper
+Rope Coil, 1 gold, 5 silver, 5 copper
+Sword of Dawn, 9 silver, 9 copper
+Amulet of Mists, 7 silver, 7 copper
+Dagger, 5 silver, 3 copper
+Crystal Vial, 8 silver, 7 copper
+Dagger, 1 gold, 5 silver
+Dagger, 8 silver, 8 copper
+Blacksmith Hammer, 9 silver, 8 copper
+Elixir of Vigor, 2 gold, 8 silver, 7 copper
+Golden Brooch, 4 gold, 1 silver, 7 copper
+Antidote, 7 silver, 3 copper
+Goblin Ear, 6 silver, 6 copper
+Traveler's Map, 1 gold, 2 silver, 7 copper
+Mystic Feather, 6 silver, 7 copper
+Iron Ingot, 5 silver, 2 copper
+Phoenix Ash, 3 silver, 3 copper
+Topaz Fragment, 3 gold, 9 silver, 1 copper
+Lucky Dice, 1 gold, 4 silver
+Dagger, 1 gold, 5 silver, 7 copper
+Silver Locket, 4 silver, 3 copper
+Dragon Tooth, 9 copper
+Helm of the Fox, 7 silver, 9 copper
+Health Tonic, 4 gold, 6 silver, 2 copper
+Watcher’s Eye, 4 gold, 6 silver, 8 copper
+Sapphire Chip, 5 gold, 4 silver, 9 copper
+Lockpick Set, 3 gold, 4 copper
+Lucky Dice, 5 copper
+Enchanted Thread, 2 silver, 8 copper
+Topaz Fragment, 1 gold, 4 silver, 2 copper
+Emerald Leaf, 6 copper
+Lucky Dice, 7 silver, 6 copper
+Mana Tonic, 1 gold, 5 silver, 8 copper
+Torch, 7 silver, 8 copper
+Scroll of Minor Fire, 1 gold, 9 silver
+Dragon Tooth, 3 gold, 3 silver
+Lockpick Set, 1 gold, 8 silver, 3 copper
+Mystic Feather, 2 silver, 1 copper
+Sapphire Chip, 4 silver, 5 copper
+Emerald Leaf, 1 gold, 7 silver, 7 copper
+Ruby Shard, 2 silver, 1 copper
+Tinker's Gear, 7 silver, 5 copper
+Shield of Oak, 2 gold, 7 silver, 7 copper
+Traveler’s Journal, 4 copper
+Torch, 1 gold, 5 silver, 8 copper
+Traveler's Map, 4 silver, 6 copper
+Rope Coil, 1 gold, 5 silver, 5 copper
+Watcher’s Eye, 1 gold, 8 silver, 7 copper
+Sunstone, 3 gold, 2 silver, 7 copper
+Dagger, 1 gold, 8 silver
+Helm of the Fox, 3 silver, 3 copper
+Ancient Coin, 2 gold, 7 silver, 5 copper
+Tinker's Gear, 1 gold, 1 silver
+Silver Locket, 2 gold, 6 silver, 1 copper
+Emerald Leaf, 2 gold, 6 silver, 6 copper
+Quiver, 4 silver, 8 copper
+Watcher’s Eye, 6 silver, 1 copper
+Gilded Chalice, 8 silver, 3 copper
+Amulet of Mists, 2 silver, 3 copper
+Traveler’s Journal, 3 silver, 5 copper
+Obsidian Idol, 7 silver, 8 copper
+Tinker's Gear, 4 silver
+Elixir of Vigor, 2 silver, 9 copper
+Obsidian Idol, 9 silver
+Tinker's Gear, 8 silver, 9 copper
+Gilded Chalice, 6 silver, 7 copper
+Ring of Embers, 9 silver
+Mana Tonic, 4 copper
+Spider Silk, 9 silver, 1 copper
+Dagger, 8 copper
+Runed Tablet, 2 gold, 3 silver, 1 copper
+Gilded Chalice, 7 copper
+Herb Bundle, 1 gold, 1 copper
+Shield of Oak, 3 silver
+Topaz Fragment, 8 silver
+Sword of Dawn, 2 gold, 8 silver, 7 copper
+Blacksmith Hammer, 1 silver, 4 copper
+Runed Tablet, 4 silver, 4 copper
+Sapphire Chip, 8 silver, 5 copper
+Iron Ingot, 1 gold
+Lucky Dice, 2 gold, 6 silver, 1 copper
+Sword of Dawn, 6 silver, 8 copper
+Moonstone, 5 silver, 5 copper
+Spider Silk, 1 gold, 3 silver, 6 copper
+Elixir of Vigor, 5 silver, 4 copper
+Scroll of Minor Fire, 1 silver, 1 copper
+Scroll of Minor Fire, 4 copper
+Topaz Fragment, 2 gold, 9 silver, 6 copper
+Traveler's Map, 1 silver, 9 copper
+Silver Locket, 1 gold, 1 silver, 3 copper
+Ornate Key, 3 gold, 1 silver, 3 copper
+Phoenix Ash, 2 gold, 3 silver, 5 copper
+Crystal Vial, 2 gold, 8 silver, 9 copper
+Leather Scrap, 8 silver
+Gilded Chalice, 3 gold, 5 silver, 7 copper
+Lucky Dice, 5 silver, 3 copper
+Moonstone, 6 copper
+Traveler’s Journal, 2 gold, 8 silver, 4 copper
+Mystic Feather, 4 silver
+Boots of Swiftness, 2 copper
+Lockpick Set, 9 silver, 5 copper
+Lockpick Set, 1 gold, 6 silver, 8 copper
+Gilded Chalice, 4 gold, 4 silver, 5 copper
+Sapphire Chip, 1 silver, 9 copper
+Antidote, 3 silver
+Wolf Pelt, 1 gold, 7 silver, 4 copper
+Scroll of Minor Fire, 3 gold, 5 silver, 2 copper
