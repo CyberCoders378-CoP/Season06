@@ -259,7 +259,7 @@ def generate_level(
     rng: random.Random,
 ) -> Grid:
     if rows < 3 or cols < 3:
-        raise ValueError("rows and cols must be >= 3")
+        raise ValueError("nb_rows and nb_cols must be >= 3")
     grid = make_empty_grid(rows, cols)
     add_border_walls(grid)
 
@@ -288,8 +288,8 @@ def generate_level(
 # -------------------------------
 def parse_args() -> argparse.Namespace:
     p = argparse.ArgumentParser(description="Generate level.txt and moves.txt for the platformer challenge.")
-    p.add_argument("--rows", type=int, default=10, help="Grid rows (e.g., 100)")
-    p.add_argument("--cols", type=int, default=12, help="Grid cols (e.g., 100)")
+    p.add_argument("--nb_rows", type=int, default=10, help="Grid nb_rows (e.g., 100)")
+    p.add_argument("--nb_cols", type=int, default=12, help="Grid nb_cols (e.g., 100)")
     p.add_argument("--coin-ratio", type=float, default=0.08, help="Probability a cell is a coin C (interior only)")
     p.add_argument("--wall-ratio", type=float, default=0.06, help="Probability a cell is a wall # (interior only)")
     p.add_argument("--ensure-reachable", action="store_true", help="Carve walls until all coins are reachable from P")

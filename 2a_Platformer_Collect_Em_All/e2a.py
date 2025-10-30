@@ -114,5 +114,6 @@ def main_extended():
 
 
 if __name__ == "__main__":
+    print("Hello Episode 2a - Easu")
     main()
     main_extended()
