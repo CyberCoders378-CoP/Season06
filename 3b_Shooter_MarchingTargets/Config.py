@@ -1,0 +1,23 @@
+
+class Config:
+    WORLD_MIN = -1000.0
+    WORLD_MAX = 1000.0
+    SCREEN_W, SCREEN_H = 900, 900
+    PADDING = 40
+
+    BG_COLOR = (15, 17, 22)
+    RING_OUTER = (80, 200, 120)
+    RING_INNER = (80, 160, 255)
+    RING_BULL = (240, 208, 0)
+    CENTER_DOT = (255, 255, 255)
+    HUD_COLOR = (230, 230, 230)
+
+    TARGET_COLOR = (255, 220, 120)
+    TARGET_COLOR_DEAD = (128, 110, 60)
+    TARGET_RADIUS = 40
+
+    BULLET_COLOR = (255, 90, 90)
+    BULLET_RADIUS_PX = 5
+
+    STEP_DELAY_MS = 1000  # one instruction per second
+    SCORE_PER_HIT = 10
