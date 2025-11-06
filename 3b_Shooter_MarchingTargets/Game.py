@@ -40,7 +40,7 @@ class Game:
             self.sim_time_ms += dt_ms
 
             self.handle_events()
-            self.update(dt_ms / 1000.0)  # seconds
+            self.update(16.67 / 1000.0)  # seconds
             self.draw()
 
         print(f"Final Score for the game after {self.shots_fired} shots : {self.score}pts")
