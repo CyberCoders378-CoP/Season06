@@ -1,3 +1,10 @@
-4: Racing Game, like rc-pro-am or moto on sega, dodgin ennemies and taking curves, flag is going to be a formula of all
-ennemy dodged an and time. ?!?
-5: Space shooter, ala Galaga, AI to beat the waves
+4a: Racing Game CLI, like rc-pro-am or moto on sega,
+4b: Racing Game Pygame, like rc-pro-am or moto on sega,
+5a: Space shooter CLI, ala Galaga, AI to beat the waves
+5b: Space shooter Pygame, ala Galaga, AI to beat the waves
+6a: Game of Life Simulator -> Medium
+6b: Text adventure -> Medium .... tree builder
+7: Min Max Chess  -> Hard
+8: Automatic Maze Dungeon Crawler 3D-> Hard
+9: Tower Offense -> Hard
+
