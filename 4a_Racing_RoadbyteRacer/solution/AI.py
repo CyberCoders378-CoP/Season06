@@ -125,7 +125,7 @@ class AI:
         if best_move == 0 and candidate_move != 0:
             return False
 
-        # both same type (both 0, or both non-zero) -> prefer closer to center
+        # both same type (both 0, or both non-zero) -> prefer closer to center heuristic
         center = (self.width - 1) / 2.0
         cand_pos = car_x + candidate_move
         best_pos = car_x + best_move
