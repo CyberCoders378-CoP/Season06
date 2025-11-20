@@ -22,7 +22,8 @@ class SpaceAI:
         # - Move toward the nearest enemy on X axis
         # - Always shoot
         if not state.enemies:
-            return AICommand(move_x=0, move_y=0, shoot=False)
+            return AICommand(set_destination=False, dest_x=0, dest_y=0, shoot=False)
+
 
         # Find nearest enemy by vertical distance
         nearest = min(state.enemies, key=lambda e: abs(e.y - state.player.y))
@@ -33,4 +34,4 @@ class SpaceAI:
         elif nearest.x > state.player.x:
             move_x = 1
 
-        return AICommand(move_x=move_x, move_y=0, shoot=True)
+        return AICommand(set_destination=True, dest_x=nearest.x, dest_y=state.player.y, shoot=True)

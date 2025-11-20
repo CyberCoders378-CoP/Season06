@@ -18,7 +18,7 @@ class Engine:
         self.screen_width = screen_width
         self.screen_height = screen_height
         self.screen = pygame.display.set_mode((screen_width, screen_height))
-        pygame.display.set_caption("Medium5 Space Shooter")
+        pygame.display.set_caption("Galactic Code Fighter V")
 
         self.clock = pygame.time.Clock()
         self.running = True
@@ -194,8 +194,52 @@ class Engine:
         )
 
     def _handle_collisions(self) -> None:
-        # TODO: basic rect collisions
-        pass
+        """
+        Handle all collisions using basic rectangle overlap:
+          - Player bullets vs enemies
+          - Enemy bullets vs player
+          - Enemies vs player (ramming)
+        """
+
+        # ---------------------------------------------------------
+        # 1. Player bullets → Enemy ships
+        # ---------------------------------------------------------
+        for bullet in self.bullets:
+            if not bullet.alive or not bullet.from_player:
+                continue
+
+            for enemy in self.enemies:
+                if not enemy.alive:
+                    continue
+
+                if bullet.rect.colliderect(enemy.rect):
+                    enemy.take_damage(1)
+                    bullet.alive = False
+                    break  # Bullet can only hit one enemy
+
+        # ---------------------------------------------------------
+        # 2. Enemy bullets → Player ship
+        # ---------------------------------------------------------
+        for bullet in self.bullets:
+            if not bullet.alive or bullet.from_player:
+                continue
+
+            if bullet.rect.colliderect(self.player.rect):
+                # Player takes damage
+                self.player.take_damage(1)
+                bullet.alive = False
+
+        # ---------------------------------------------------------
+        # 3. Enemy ships → Player ship (ramming)
+        # ---------------------------------------------------------
+        for enemy in self.enemies:
+            if not enemy.alive:
+                continue
+
+            if enemy.rect.colliderect(self.player.rect):
+                # Both take damage (classic shmup ramming)
+                self.player.take_damage(1)
+                enemy.take_damage(9999)  # insta-kill enemy
 
     def _cleanup(self) -> None:
         self.bullets = [b for b in self.bullets if b.alive]
@@ -219,11 +263,3 @@ class Engine:
         self.screen.blit(text_surface, rect1)
         self.screen.blit(flag_surface, rect2)
 
-
-def main():
-    engine = Engine()
-    engine.run()
-
-
-if __name__ == "__main__":
-    main()
